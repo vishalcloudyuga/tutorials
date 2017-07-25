@@ -1,4 +1,4 @@
-# Default values for my-mean-app.
+# Default values for mean-k8s.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 replicaCount: 1
@@ -7,7 +7,7 @@ image:
   tag: 0.1.0
   pullPolicy: IfNotPresent
 service:
-  name: my-mean-app
+  name: mean-k8s
   type: NodePort
   externalPort: 3000
   internalPort: 3000
