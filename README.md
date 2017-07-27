@@ -19,4 +19,5 @@ Index of articles
 |simple-node-app|Build your NodeJs App Docker container from a Bitnami base container        |
 | go-k8s     | Deploy A Go Application On Kubernetes With Helm                                | https://docs.bitnami.com/kubernetes/how-to/deploy-go-application-kubernetes-helm/    |
 |mean-k8s    | Deploy A MEAN Application On Kubernetes With Helm                             | https://docs.bitnami.com/kubernetes/how-to/deploy-mean-application-kubernetes-helm/  | 
+|multistage-docker    | Optimize Your Docker Images with Multi-Stage Builds and Bitnami Containers | https://docs.bitnami.com/containers/how-to/optimize-docker-images-multistage-builds/  | 
 
